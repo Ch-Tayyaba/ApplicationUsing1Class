@@ -1,0 +1,7 @@
+F:\2nd Semester\OOP\Projects\ScholarshipSystem\ScholarshipSystem\bin\Debug\ScholarshipSystem.exe.config
+F:\2nd Semester\OOP\Projects\ScholarshipSystem\ScholarshipSystem\bin\Debug\ScholarshipSystem.exe
+F:\2nd Semester\OOP\Projects\ScholarshipSystem\ScholarshipSystem\bin\Debug\ScholarshipSystem.pdb
+F:\2nd Semester\OOP\Projects\ScholarshipSystem\ScholarshipSystem\obj\Debug\ScholarshipSystem.csproj.AssemblyReference.cache
+F:\2nd Semester\OOP\Projects\ScholarshipSystem\ScholarshipSystem\obj\Debug\ScholarshipSystem.csproj.CoreCompileInputs.cache
+F:\2nd Semester\OOP\Projects\ScholarshipSystem\ScholarshipSystem\obj\Debug\ScholarshipSystem.exe
+F:\2nd Semester\OOP\Projects\ScholarshipSystem\ScholarshipSystem\obj\Debug\ScholarshipSystem.pdb
